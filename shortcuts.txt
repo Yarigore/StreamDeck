@@ -1,0 +1,23 @@
+Discord
+	Silenciar } CONTROL + NINE
+	Mutear } CONTROL + EIGHT
+	Aceptar } ENTER
+	Rechazar } ESCAPE
+
+Windows
+	Seleccionar Todo } CONTROL + A
+	Copiar } CONTROL + C
+	Pegar } CONTROL + V
+	Guardar } CONTROL + S
+
+OBS
+	Iniciar Grabación } CONTROL + SHIFT + R
+	Detener Grabación } CONTROL + SHIFT + T
+	Cambiar Escena } CONTROL + SHIFT + E
+	Captura Pantalla } CONTROL + SHIFT + P
+
+OBS
+	Iniciar Grabación } CONTROL + SHIFT + R
+	Detener Grabación } CONTROL + SHIFT + T
+	Cambiar Escena } CONTROL + SHIFT + E
+	Captura Pantalla } CONTROL + SHIFT + P
